@@ -34,3 +34,8 @@ Sample Output:
 ```
 http://12345.r.cdnsun.net/images/photo.jpeg?secure=DMF1ucDxtHCxwYQ==
 ```
+
+CONTACT
+
+* W: https://cdnsun.com
+* E: info@cdnsun.com
